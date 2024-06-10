@@ -1,0 +1,42 @@
+## To-Do List Application
+
+This is a simple JavaScript application that functions as a to-do list. You can add new tasks, mark them complete, and the list persists through page refreshes using localStorage.
+
+### Features:
+
+* Add new tasks.
+* Mark tasks as completed.
+* Completed tasks are visually distinguished.
+* To-do list persists through page refreshes.
+
+### Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/to-do-list-app.git
+   ```
+
+   Replace `your-username` with your actual GitHub username.
+
+2. **Open the application:**
+
+   Open the `index.html` file in your web browser.
+
+### Usage
+
+1. Enter your new task in the text box.
+2. Click the "Add" button to add the task to the list.
+3. Click the checkbox next to a task to mark it as completed.
+
+**Note:** This is a basic to-do list and doesn't include features like editing tasks or due dates. You can extend it further based on your needs.
+
+### Technologies Used
+
+* HTML: Provides the structure of the web page.
+* JavaScript: Handles user interactions and manipulates the DOM to update the list.
+* localStorage: Used to store the to-do list data persistently.
+
+### Contributing
+
+Feel free to fork this repository and make improvements! You can add new features, fix bugs, or improve the user interface. Please submit a pull request with your changes.
