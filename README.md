@@ -22,7 +22,7 @@ This repository houses a project built entirely with JavaScript. It showcases th
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/r1a1v1i1/Pure_JS-projects.git
    ```
 
 2. **Install dependencies (if any):**
