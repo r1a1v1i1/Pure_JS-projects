@@ -28,7 +28,7 @@ function onHandsDetected(results) {
     const x = wristLandmark.x * canvas.width;
     const y = wristLandmark.y * canvas.height;
 
-    generateArt(x, y); // Pass hand position data for dynamic art
+    generateArt(x, y); // Pass hand position data for 
   }
 }
 
