@@ -14,6 +14,7 @@ function handleVideoStream(stream) {
 // Function to handle errors accessing the video stream
 function handleVideoError(error) {
   console.error('Error accessing video stream:', error);
+  console.log("error");
 }
 
 // Function to process detected hands
