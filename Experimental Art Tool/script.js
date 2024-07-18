@@ -32,7 +32,7 @@ function onHandsDetected(results) {
   }
 }
 
-// Function to generate art based on hand position (replace with your logic)
+// Function to generate art based 
 function generateArt(x, y) {
   const brushSize = Math.min(x, canvas.width - x) / 5; // Adjust based on hand position
   ctx.fillStyle = 'hsl(' + (x / canvas.width) * 360 + ', 100%, 50%)'; // Dynamic color based on x position
