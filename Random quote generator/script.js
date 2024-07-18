@@ -17,4 +17,5 @@ function getQuote() {
     });
 }
 
+// get quote buttons
 getQuoteButton.addEventListener("click", getQuote);
